@@ -1,0 +1,6 @@
+numpy==2.3.5
+numpy_financial==1.0.0
+pandas==2.3.3
+streamlit==1.50.0
+streamlit_cookies_controller==0.0.4
+streamlit_echarts==0.4.0
