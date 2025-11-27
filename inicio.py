@@ -1,6 +1,6 @@
 import streamlit as st
 
-import login as login
+from login import*
 
 # CONFIGURACION DE LA PÁGINA
 st.set_page_config(
@@ -53,3 +53,4 @@ if "usuario" in st.session_state:
     #            computación y una rama de la inteligencia artificial, cuyo objetivo es desarrollar
     #            técnicas que permitan que las computadoras aprendan (Wikipedia)
     #            """)
+
