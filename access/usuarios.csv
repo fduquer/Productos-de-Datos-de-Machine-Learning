@@ -1,0 +1,7 @@
+usuario,nombre,clave,rol
+admin,"Administrador",admin1709,admin
+us_riesgos,"Usuario Riesgos",us1709,Riesgos
+us_operaciones,"Usuario Operaciones",us1709,Operaciones
+us_rrhh,"Usuario MKT",us1709,Marketing
+us_comercial,"Usuario Comercial",us1709,Comercial
+fduque,"Francisco",1709,admin

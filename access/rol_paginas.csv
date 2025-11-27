@@ -1,0 +1,6 @@
+pagina,nombre,roles,icono
+inicio.py,Inicio,Riesgos|Operaciones|Comercial|Marketing,home
+pages\app_riesgos_FD.py,Risk Analyzer,Riesgos|Comercial,data_loss_prevention
+pages\pagina1.py,Forecasting,Operaciones,visibility
+pages\pagina2.py,Lead Scoring,Comercial,ads_click
+pages\pagina3.py,Segmentación,Marketing,group
