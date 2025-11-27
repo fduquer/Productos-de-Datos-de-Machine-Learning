@@ -1,0 +1,9 @@
+[client]
+showSidebarNavigation = false
+[theme]
+primaryColor = "#cc640fff"
+backgroundColor = "black"
+secondaryBackgroundColor = "#696262ff"
+textColor = "forestgreen"
+font = "Georgia"
+baseFontSize=16
